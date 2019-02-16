@@ -1,0 +1,13 @@
+C:\Users\Edon\source\repos\BHISApi\BHISApi\bin\Debug\netcoreapp2.1\BHISApi.deps.json
+C:\Users\Edon\source\repos\BHISApi\BHISApi\bin\Debug\netcoreapp2.1\BHISApi.runtimeconfig.json
+C:\Users\Edon\source\repos\BHISApi\BHISApi\bin\Debug\netcoreapp2.1\BHISApi.runtimeconfig.dev.json
+C:\Users\Edon\source\repos\BHISApi\BHISApi\bin\Debug\netcoreapp2.1\BHISApi.dll
+C:\Users\Edon\source\repos\BHISApi\BHISApi\bin\Debug\netcoreapp2.1\BHISApi.pdb
+C:\Users\Edon\source\repos\BHISApi\BHISApi\obj\Debug\netcoreapp2.1\BHISApi.csproj.CoreCompileInputs.cache
+C:\Users\Edon\source\repos\BHISApi\BHISApi\obj\Debug\netcoreapp2.1\BHISApi.RazorAssemblyInfo.cache
+C:\Users\Edon\source\repos\BHISApi\BHISApi\obj\Debug\netcoreapp2.1\BHISApi.RazorAssemblyInfo.cs
+C:\Users\Edon\source\repos\BHISApi\BHISApi\obj\Debug\netcoreapp2.1\BHISApi.AssemblyInfoInputs.cache
+C:\Users\Edon\source\repos\BHISApi\BHISApi\obj\Debug\netcoreapp2.1\BHISApi.AssemblyInfo.cs
+C:\Users\Edon\source\repos\BHISApi\BHISApi\obj\Debug\netcoreapp2.1\BHISApi.RazorTargetAssemblyInfo.cache
+C:\Users\Edon\source\repos\BHISApi\BHISApi\obj\Debug\netcoreapp2.1\BHISApi.dll
+C:\Users\Edon\source\repos\BHISApi\BHISApi\obj\Debug\netcoreapp2.1\BHISApi.pdb
